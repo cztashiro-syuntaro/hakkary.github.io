@@ -1,1 +1,7 @@
-どうですか、うまくいってますか？
+---
+layout: post
+title:  "最初のテスト投稿"
+date:   2015-03-16 19:44:45
+categories: jekyll update
+---
+テスト投稿です！
