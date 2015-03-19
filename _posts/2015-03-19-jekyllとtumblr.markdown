@@ -8,5 +8,7 @@ jekyllは途中で画像を挿入できるが、手動ではあるが、ドメ�
 デザインを完全に統一させるためにはCSSの作り込みが必要。
 http://blog.textfile.org/20141014/github/
 
+![sample](/images/test.png)
+
 tumblrはapiを叩いて本サイトにそのまま組み込める。
 しかし、途中で画像を挿入等はできない。
